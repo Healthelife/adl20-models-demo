@@ -230,5 +230,12 @@
     "path" : "archetypes/openEHR-EHR-SECTION.medication.v1.adls",
     "sha" : "d379bcf36aa1293b122d305a3daa87b3647ada0f",
     "languages" : [ "en" ]
+  }, {
+    "id" : "openEHR-EHR-ACTION.ok.v1.0.0",
+    "rmType" : "ACTION",
+    "name" : "ok",
+    "path" : "archetypes/openEHR-EHR-ACTION.ok.v1.adls",
+    "sha" : "c57843f2158b3f8c15ac28f07de68d3354befa51",
+    "languages" : [ "en" ]
   } ]
 }
