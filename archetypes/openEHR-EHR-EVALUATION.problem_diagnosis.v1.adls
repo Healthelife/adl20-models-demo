@@ -55,9 +55,6 @@ definition
                     ELEMENT[id3] matches {    -- Problem/Diagnosis
                         value matches {
                             DV_TEXT[id78] 
-                            DV_COUNT[id94] matches {
-                                magnitude matches {*}
-                            }
                         }
                     }
                     ELEMENT[id10] matches {    -- Clinical description
